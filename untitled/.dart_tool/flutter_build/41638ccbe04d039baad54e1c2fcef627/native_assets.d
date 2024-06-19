@@ -1,0 +1,1 @@
+ C:\\Users\\Yitzchak\\Desktop\\Projects\\hackathon\\AndroidProject\\untitled\\.dart_tool\\flutter_build\\41638ccbe04d039baad54e1c2fcef627\\native_assets.yaml: 
